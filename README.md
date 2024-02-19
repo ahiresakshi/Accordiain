@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+![accordian](https://github.com/ahiresakshi/Accordiain/assets/88669971/95c945c0-4c93-4dd6-bf4d-b0a37885f2d9)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
